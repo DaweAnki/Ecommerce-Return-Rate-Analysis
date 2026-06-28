@@ -98,17 +98,6 @@ An e-commerce company has **5,000 orders** across 5 product categories. Every re
 
 ---
 
-## 📈 Power BI Dashboard
-
-2-page interactive dashboard with —
-
-- **Page 1 — Return Rate Overview** → KPI cards, Return by Category, Return Reasons, Payment Method, Top 10 High Risk Cities
-- **Page 2 — Risk Score Analysis** → Risk label distribution, Avg risk by category, High risk orders table, Profit loss by category
-
-Features —
-- 6 DAX measures (Total Orders, Total Returned, Return Rate %, Total Return Cost, Avg Risk Score, Total Profit)
-- Category, Payment Method and Shipping Method slicers
-- Drill-through filters across all visuals
 
 ---
 
@@ -134,9 +123,7 @@ Features —
 - ✅ `high_risk_products.csv` — Products with ≥40% return rate
 - ✅ `high_risk_orders.csv` — Orders with risk score ≥ 0.5
 - ✅ `all_orders_with_risk_scores.csv` — All 5000 orders with predicted risk scores
-- ⬜ `Return_Rate_Dashboard.pbix` — 2-page Power BI Dashboard
-- ⬜ `Return_Rate_Analysis_Report.pdf` — 1-2 page final project report
-
+- 
 ---
 
 ## 🚀 How to Run
