@@ -287,7 +287,7 @@ if page == "🏠  Home":
 
     st.markdown("""
         <div class="page-header">
-            <div class="page-header-title">🛒 E-Commerce Return Rate<br>Reduction Analysis</div>
+            <div class="page-header-title">🧠 Returnlytics – Return Risk<br>Prediction & Analytics</div>
             <div class="page-header-subtitle">
                 An end-to-end data analytics and machine learning project to identify
                 and predict product return risk across 5,000 orders.
