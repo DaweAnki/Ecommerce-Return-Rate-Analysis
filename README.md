@@ -1,4 +1,4 @@
-# 📊 E-Commerce Return Rate Reduction Analysis
+# 📊 Returnlytics-ReturnRiskAnalytics
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Live-FF4B4B?logo=streamlit)
@@ -30,7 +30,7 @@ An e-commerce company has **5,000 orders** across 5 product categories. Every re
 
 ## 📁 Project Structure
 ```
-Ecommerce-Return-Rate-Analysis/
+Returnlytics-ReturnRiskAnalytics/
 │
 ├── app.py ← Streamlit web app (live on Returnlytics)
 │
@@ -155,7 +155,7 @@ Ecommerce-Return-Rate-Analysis/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/DaweAnki/Ecommerce-Return-Rate-Analysis.git
+git clone https://github.com/DaweAnki/Returnlytics-ReturnRiskAnalytics.git
 cd Ecommerce-Return-Rate-Analysis
 ```
 
