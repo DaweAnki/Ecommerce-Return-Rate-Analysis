@@ -29,7 +29,8 @@ An e-commerce company has **5,000 orders** across 5 product categories. Every re
 ---
 
 ## 📁 Project Structure
-```Ecommerce-Return-Rate-Analysis/
+```
+Ecommerce-Return-Rate-Analysis/
 │
 ├── app.py ← Streamlit web app (live on Returnlytics)
 │
