@@ -1,5 +1,5 @@
 # ============================================================
-# E-COMMERCE RETURN RISK PREDICTOR — MULTI PAGE APP
+# RETURNLYTICS – RETURN RISK PREDICTION & ANALYTICS APP
 # Streamlit App | Ankita Daweshar
 # ============================================================
 
